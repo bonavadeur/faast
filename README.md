@@ -8,7 +8,7 @@
 
 `FaaSt` is a Knative Serving based Serverless Platform designed for Distributed System.
 
-This repo is a copy from official repo: [ikukantai](https://github.com/bonavadeur/ikukantai.git), for publication purpose.
+This repo is a copy from official repo: [ikukantai](https://github.com/bonavadeur/ikukantai.git), for publication purpose. **Please follow** [official repo ikukantai](https://github.com/bonavadeur/ikukantai.git) **for newest update!**
 
 <p align="center">
   <img src="images/logo.jpg" />
